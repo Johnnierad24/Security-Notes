@@ -25,7 +25,7 @@ Everything in this repository was done on systems I own or on platforms built fo
 | Week | Topic | Status |
 |---|---|---|
 | 1 | Cybersecurity primer and rules of engagement | Done |
-| 2 to 3 | Linux fundamentals | Not started |
+| 2 to 3 | Linux fundamentals | In Progress|
 | 4 | Computer networks, Part 1 | Not started |
 | 5 to 6 | Computer networks, Part 2 | Not started |
 | 7 to 9 | Python and Bash scripting | Not started |
