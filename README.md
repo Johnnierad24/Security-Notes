@@ -54,4 +54,7 @@ Everything in this repository was done on systems I own or on platforms built fo
 
 ## Contact
 
-Add your preferred contact here (for example a LinkedIn profile link).
+LinkedIn profile link:https://www.linkedin.com/in/john-njenga-159171252/
+Email: njengajohnnie@gmail.com
+Phone number: (+254) 112104319
+Portfolio: https://github-portfolio-theta.vercel.app/
