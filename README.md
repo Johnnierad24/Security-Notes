@@ -44,7 +44,7 @@ Everything in this repository was done on systems I own or on platforms built fo
 | HackerDNA | Secrets in Source | Web | [Write-up](writeups/secrets-in-source-1.md) |
 | HackerDNA | Secrets in Source 2 | Web | [Write-up](writeups/secrets-in-source-2.md) |
 | HackerDNA | Hack the Cookie | Web | [Write-up](writeups/hack-the-cookie.md) |
-| SciLab Academy | Super SSH | Linux and networking | [Write-up](writeups/super-ssh.md) |
+| CyLab Academy | Super SSH | Linux and networking | [Write-up](writeups/super-ssh.md) |
 
 ## Goals
 
