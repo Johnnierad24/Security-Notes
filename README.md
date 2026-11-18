@@ -25,7 +25,7 @@ Everything in this repository was done on systems I own or on platforms built fo
 | Week | Topic | Status |
 |---|---|---|
 | 1 | Cybersecurity primer and rules of engagement | Done |
-| 2 to 3 | Linux fundamentals |  In progress — Lab 1 finished (copy, rename, delete), (search for text, counting lines) and (manual)|
+| 2 to 3 | Linux fundamentals |  In progress — Lab 2 started|
 | 4 | Computer networks, Part 1 | Not started |
 | 5 to 6 | Computer networks, Part 2 | Not started |
 | 7 to 9 | Python and Bash scripting | Not started |
